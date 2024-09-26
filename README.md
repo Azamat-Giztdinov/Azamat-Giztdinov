@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm Azamat Giztdinov! 👋
+### Python/Node.js Backend Developer
 
-<!--
-**Azamat-Giztdinov/Azamat-Giztdinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me & contacts
+- 🌍 Based in Kazan, Russia
+- 📧 email: agiztdinov45@gmail.com
+- Ⓜ️ tg: [quayleco](https://t.me/quayleco)
+- 💻 In addition to Python/Node.js, I also code in C/C++
+- 👨‍💻 You can check out my projects in the [repositories](https://github.com/Azamat-Giztdinov?tab=repositories)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azamat-Giztdinov&theme=tokyonight)
