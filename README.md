@@ -12,4 +12,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azamat-Giztdinov&theme=tokyonight)
 
 ## LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/agiztdinov45)](https://leetcode.com/agiztdinov45/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/agiztdinov45?theme=dark&extension=heatmap)](https://leetcode.com/agiztdinov45/)
