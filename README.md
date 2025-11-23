@@ -1,5 +1,5 @@
 # Hi, I'm Azamat Giztdinov! 👋
-### Python/Node.js Backend Developer
+### Python Developer
 
 ## About me & contacts
 - 🌍 Based in Kazan, Russia
